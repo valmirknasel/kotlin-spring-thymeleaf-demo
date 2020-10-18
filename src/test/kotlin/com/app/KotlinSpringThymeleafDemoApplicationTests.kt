@@ -11,7 +11,6 @@ class KotlinSpringThymeleafDemoApplicationTests {
     fun contextLoads() {
         val test = 1
         assertEquals(test, 1)
-        println("ok")
     }
 
 }
